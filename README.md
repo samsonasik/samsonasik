@@ -6,4 +6,4 @@ My name is Abdul Malik Ikhsan. I am a PHP Developer and System Engineer. I live 
 
 :pencil: I like blogging as well. You can read [my blog](https://samsonasik.wordpress.com/).
 
-:construction_worker: I am looking for new php remote work. My resume is [online](https://samsonasik.github.io)
+<span style="color:green;">:construction_worker: I am looking for new php remote work. My resume is [online](https://samsonasik.github.io)</span>
