@@ -51,7 +51,7 @@
   <text class="title-text" x="108" y="70" font-size="22" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif">Has my work helped you?</text>
   <rect x="108" y="80" width="38" height="2" rx="1" fill="#f59e0b"/>
 
-  <text class="sub-text" x="108" y="107" font-size="15" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif">Help keep the fixes, refactors and upgrades coming.</text>
+  <text class="sub-text" x="108" y="107" font-size="15" font-weight="500" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif">Help keep the fixes, refactors, and upgrades coming.</text>
 
   <a href="https://github.com/sponsors/samsonasik" target="_blank">
     <g transform="translate(535, 56)">
