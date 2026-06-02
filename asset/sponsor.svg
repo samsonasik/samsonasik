@@ -57,15 +57,15 @@
     <g transform="translate(535, 56)">
       <rect class="btn-bg" width="180" height="48" rx="10"/>
 
-      <path d="M 19 14 C 20.2 12 17.8 10 19 6" fill="none" class="btn-stroke" stroke-width="1.15" stroke-linecap="round" opacity="0">
+      <path d="M 19 14 C 21.2 12 17.2 10 19 6" fill="none" class="btn-stroke" stroke-width="1.15" stroke-linecap="round" opacity="0">
         <animate attributeName="opacity" values="0; 0.6; 0" dur="2.4s" begin="0.3s" repeatCount="indefinite"/>
         <animateTransform attributeName="transform" type="translate" values="0 3; 0 -1; 0 -5" dur="2.4s" begin="0.3s" repeatCount="indefinite"/>
       </path>
-      <path d="M 23 14 C 21.8 12 24.2 10 23 6" fill="none" class="btn-stroke" stroke-width="1.15" stroke-linecap="round" opacity="0">
+      <path d="M 23 14 C 20.8 12 25.2 10 23 6" fill="none" class="btn-stroke" stroke-width="1.15" stroke-linecap="round" opacity="0">
         <animate attributeName="opacity" values="0; 0.6; 0" dur="2.4s" begin="1.1s" repeatCount="indefinite"/>
         <animateTransform attributeName="transform" type="translate" values="0 3; 0 -1; 0 -5" dur="2.4s" begin="1.1s" repeatCount="indefinite"/>
       </path>
-      <path d="M 27 14 C 28.2 12 25.8 10 27 6" fill="none" class="btn-stroke" stroke-width="1.15" stroke-linecap="round" opacity="0">
+      <path d="M 27 14 C 29.2 12 25.2 10 27 6" fill="none" class="btn-stroke" stroke-width="1.15" stroke-linecap="round" opacity="0">
         <animate attributeName="opacity" values="0; 0.6; 0" dur="2.4s" begin="1.9s" repeatCount="indefinite"/>
         <animateTransform attributeName="transform" type="translate" values="0 3; 0 -1; 0 -5" dur="2.4s" begin="1.9s" repeatCount="indefinite"/>
       </path>
