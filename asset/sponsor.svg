@@ -24,6 +24,17 @@
     }
   </style>
 
+  <defs>
+    <clipPath id="button-clip">
+      <rect width="180" height="48" rx="10"/>
+    </clipPath>
+    <linearGradient id="button-swipe" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff7ed" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#fff7ed" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#fff7ed" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
   <rect class="card-bg" width="740" height="160" rx="12"/>
   <rect class="card-stroke" x="0.5" y="0.5" width="739" height="159" rx="11.5" fill="none"/>
 
@@ -56,6 +67,11 @@
   <a href="https://github.com/sponsors/samsonasik" target="_blank">
     <g transform="translate(535, 56)">
       <rect class="btn-bg" width="180" height="48" rx="10"/>
+      <g clip-path="url(#button-clip)">
+        <rect x="-56" y="0" width="46" height="48" rx="10" fill="url(#button-swipe)" transform="skewX(-14)">
+          <animate attributeName="x" values="-56;206" dur="3.4s" repeatCount="indefinite"/>
+        </rect>
+      </g>
 
       <path d="M 19 14 C 21.2 12 17.2 10 19 6" fill="none" class="btn-stroke" stroke-width="1.15" stroke-linecap="round" opacity="0">
         <animate attributeName="opacity" values="0; 0.6; 0" dur="2.4s" begin="0.3s" repeatCount="indefinite"/>
