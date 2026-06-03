@@ -1,4 +1,4 @@
-<h3><img src="./asset/fire-wave.svg" width="20" height="20" alt="Fire"><img src="./asset/fire-wave.svg" width="20" height="20" alt="Fire"><img src="./asset/fire-wave.svg" width="20" height="20" alt="Fire"> Hello <img src="./asset/fire-wave.svg" width="20" height="20" alt="Fire"><img src="./asset/fire-wave.svg" width="20" height="20" alt="Fire"><img src="./asset/fire-wave.svg" width="20" height="20" alt="Fire"></h3>
+<h3><img src="./asset/fire-wave.svg" width="20" height="20" alt="" aria-hidden="true"><img src="./asset/fire-wave.svg" width="20" height="20" alt="" aria-hidden="true"><img src="./asset/fire-wave.svg" width="20" height="20" alt="" aria-hidden="true"> Hello <img src="./asset/fire-wave.svg" width="20" height="20" alt="" aria-hidden="true"><img src="./asset/fire-wave.svg" width="20" height="20" alt="" aria-hidden="true"><img src="./asset/fire-wave.svg" width="20" height="20" alt="" aria-hidden="true"></h3>
 
 My name is Abdul Malik Ikhsan. I am a PHP Developer and System Engineer. I live in Bandung Barat, Indonesia.
 
